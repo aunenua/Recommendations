@@ -2,8 +2,7 @@ City's crowded places: culture, cafés, and cool stuff
 The very best spots in Hamburg an Rotterdam - all the places you don't want to miss out on :)
 
 
-museums and culture:
-tbc 
+Museums and Culture:
 Museum für Kunst und Gewerbe
 Kunsthalle
 
@@ -18,10 +17,7 @@ website: https://www.downtownnmgn.nl/
 
 
 Café Spot in Hamburg: Lowinskys
-my very favourite place at the moment
-lovely café, friendly staff, famous for their good matcha and excellent coffee
-also offer bagels, grilled cheese, and baked goods, such as tahini brownies and pistachio cookies
-the owner is bringing New York's spirit to Hamburg
+My very favourite place at the moment: lovely café, friendly staff, famous for their good matcha and excellent coffee, also offer bagels, grilled cheese, and baked goods, such as tahini brownies and pistachio cookies. The owner is bringing New York's spirit to Hamburg
 website: https://lowinskys.com/
 
 Hamburger Schietwetter: what to do outside when it's raining dogs and cats in the most beautiful city in Northern Germany 
@@ -30,17 +26,18 @@ Visiting the Botanischen Garten
 Taking the ferry to Finkenwerder 
 Walking through the Alter Elbtunnel
 
-
-
+Test:
 Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. 
 Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Cool water things to do in Rotterdam:
-go to Hoek Van Holland with the metro for a nice day at the beach, the beach is super long and big and is lovely for walks. Great for dogs
+Go to Hoek Van Holland with the metro for a nice day at the beach, the beach is super long and big and is lovely for walks. Great for dogs
 In Rotterdam you can surf in the canals, specifically RIF010 is a place with artificial waves to do urban surfing. Take the water taxi here, very touristic but fun.
 
 Cool water things to do in Hamburg:
 Swimming in the Dove Elbe, right outside of the city.
 Riding pedal boat in the Außenalster right in the middle of the city.
+Stand Up Paddling is also great.
+
