@@ -1,0 +1,10 @@
+---
+title: "city-guide"
+author: "aune"
+format: html
+editor: visual
+---
+
+## Hamburg & Rotterdam City-Guide
+
+If you are looking for the very best recommendations for the cities of Hamburg and Rotterdam, you've come to the right place! Exclusive recommendations from students living in both cities will make sure that you don't miss out on the best things to do, see, and eat in Hamburg or Rotterdam.
